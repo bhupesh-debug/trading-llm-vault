@@ -226,6 +226,28 @@ Append-only record of all system operations (`setup`, `ingest`, `query`, `lint`,
   - Updated Entity: `wiki/entities/NIFTY50.md`
   - Updated Catalog: `index.md`
 
+---
+
+## [2026-10-18] deploy | GitHub Repository Creation & Live Web Application Portal
+- **GitHub Repository**: `https://github.com/bhupesh-debug/trading-llm-vault`
+- **Live Hosted Application**: `https://bhupesh-debug.github.io/trading-llm-vault/`
+- **Key Knowledge & Features Deployed**:
+  - Initialized isolated Git repository on `main` branch with comprehensive `.gitignore` and `.nojekyll`.
+  - Built dark-mode glassmorphic single-page web application (`index.html`) featuring:
+    - Interactive 1R Position & Dollar Risk Sizer.
+    - Fundamental Value Rainbow Calculator ($0.2\times$ to $10.0\times$ multiple bands).
+    - NIFTY 50 FnO Strike & Spread Matrix generator.
+    - Copy-paste ready TradingView Pine Script v5 multi-MA ribbon code.
+    - Full strategy cards with modal breakdowns for Minervini VCP, Intraday Options Writing, ETF Rotation, Nifty 500 V3, STBT, and Classical Chart Patterns.
+    - Non-negotiable trading rules & circuit breaker manifesto.
+  - Successfully configured and verified live automated build on GitHub Pages.
+- **Files Created/Modified**:
+  - Created: `index.html`
+  - Created: `.gitignore`
+  - Created: `.nojekyll`
+  - Updated: `README.md`
+
+
 
 
 
